@@ -1,7 +1,7 @@
 import React from 'react'
-import Left from '../layout/left'
+import Left from '../layout/Left'
 import styles from "./Login.module.css"
-import Right from '../layout/right'
+import Right from '../layout/Right'
 
 function Login() {
     return (
